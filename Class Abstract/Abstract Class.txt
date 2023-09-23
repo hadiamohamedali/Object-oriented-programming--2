@@ -1,0 +1,4 @@
+Abstract class:-
+1-Has Pure Virtual Function..
+2-We Can Not Define Object from Abstract Class..
+3-We Can Only Define Pointers..
